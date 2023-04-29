@@ -43,6 +43,8 @@ namespace CarLotSimulator;
             Console.WriteLine($"{vehicle.Year},{vehicle.Make},{vehicle.Model}");
         }
 
+        Console.WriteLine($"numbers of cars: {CarLot.numberOfCars}");
+
         
 
 
